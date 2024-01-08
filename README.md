@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋 it's Cinta Dewi Amelia here !
 
-<!--
-**cintadewiamelia/cintadewiamelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## i'm Data Enthusiast, Cloud Engineer, Web Developer & Mobile Application Developer
 
-Here are some ideas to get you started:
+My main motivations at work is to use my skills to help companies to understand their data, making better business decisions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍  I'm based in Jakarta, Indonesia
+✉️  You can contact me at cinta.dewiamelia@gmail.com / https://www.linkedin.com/in/cinta-dewi-amelia
+🧠  I'm learning Data Analyst, Data Visualization, BI Engineer, Cloud Engineer, Data Engineer, IT Support
+
+### Skills
+https://www.python.org/
+https://www.mysql.com/
+https://www.tableau.com/
+Google Data Studio
+https://lookerstudio.google.com/
+https://cloud.google.com/
+https://aws.amazon.com/
