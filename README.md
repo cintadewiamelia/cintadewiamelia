@@ -9,7 +9,7 @@ My main motivations at work is to use my skills to help companies to understand 
 🧠  I'm learning Data Analyst, Data Visualization, BI Engineer, Cloud Engineer, Data Engineer, IT Support
 
 ### Skills
-https://www.python.org/
+[Python](https://www.python.org/)
 https://www.mysql.com/
 https://www.tableau.com/
 Google Data Studio
