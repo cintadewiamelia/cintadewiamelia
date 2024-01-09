@@ -5,7 +5,7 @@
 My main motivations at work is to use my skills to help companies to understand their data, making better business decisions
 
 🌍  I'm based in Jakarta, Indonesia \
-✉️  You can contact me at cinta.dewiamelia@gmail.com / https://www.linkedin.com/in/cinta-dewi-amelia \
+✉️  You can contact me at <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" width="36" height="36" href="cinta.dewiamelia@gmail.com" alt="Gmail"> / https://www.linkedin.com/in/cinta-dewi-amelia \
 🧠  I'm learning Data Analyst, Data Visualization, BI Engineer, Cloud Engineer, Data Engineer, IT Support
 
 ### Tech Stack 
