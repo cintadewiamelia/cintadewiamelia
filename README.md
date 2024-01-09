@@ -11,6 +11,6 @@ My main motivations at work is to use my skills to help companies to understand 
 ### Tech Stack 
 <p>
   <img src="https://skillicons.dev/icons?i=php,js,jquery,dart,nodejs,python,r,mysql,linux,gcp,aws,wordpress" />
-  <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" width="36" height="36" href="https://lookerstudio.google.com" alt="Google Data Studio">
-  <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" width="36" height="36" href="https://tableau.com" alt="Tableau">
+  <img src="https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png?rmode=max" width="36" height="36" href="https://lookerstudio.google.com" alt="Google Data Studio">
+  <img src="https://www.tableau.com/themes/custom/tableau_www/favicon.ico" width="36" height="36" href="https://tableau.com" alt="Tableau">
 </p>
