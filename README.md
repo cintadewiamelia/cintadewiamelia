@@ -2,7 +2,7 @@
 
 ### i'm Data Enthusiast, Cloud Engineer, Web Developer & Mobile Application Developer
 
-My main motivations at work is to use my skills to help companies to understand their data, making better business decisions
+Professional programmer with more than 7 years’ experience. Help companies understand data that supports making business decisions.
 
 🌍  I'm based in Jakarta, Indonesia <br/>
 ✉️  Contact me at **gmail** `cinta.dewiamelia@gmail.com` or **linkedin** [in/cinta-dewi-amelia](https://www.linkedin.com/in/cinta-dewi-amelia/) <br/>
