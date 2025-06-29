@@ -10,7 +10,5 @@ Experienced programmer with a background in computer science, possessing excelle
 
 ### Tech Stack 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,jquery,dart,nodejs,python,r,mysql,linux,gcp,aws,wordpress" />
-  <img src="https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png?rmode=max" width="36" height="36" href="https://lookerstudio.google.com" alt="Google Data Studio">
-  <img src="https://www.tableau.com/themes/custom/tableau_www/favicon.ico" width="36" height="36" href="https://tableau.com" alt="Tableau">
+  <img src="https://skillicons.dev/icons?i=php,js,jquery,laravel,dart,flutter,nodejs,python,r,mysql,linux,gcp,aws,wordpress" />
 </p>
