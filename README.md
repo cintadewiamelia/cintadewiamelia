@@ -2,7 +2,7 @@
 
 ### i'm Data Enthusiast, Cloud Engineer, Web Developer & Mobile Application Developer
 
-Professional programmer with more than 7 years’ experience. Help companies understand data that supports making business decisions.
+Experienced programmer with a background in computer science, possessing excellent problem-solving and communication skills. A reliable and dependable professional with a proven ability to build a web and mobile applications. In-service Programmer and having 7+ years of experience.
 
 🌍  I'm based in Jakarta, Indonesia <br/>
 ✉️  Contact me at **gmail** `cinta.dewiamelia@gmail.com` or **linkedin** [in/cinta-dewi-amelia](https://www.linkedin.com/in/cinta-dewi-amelia/) <br/>
